@@ -1,0 +1,44 @@
+*
+{
+	-webkit-touch-callout: none; 
+    -webkit-user-select: none; 
+    -moz-user-select: none; 
+    -ms-user-select: none; 
+    user-select: none; 
+	cursor: default;
+}
+
+h1
+{
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 250px;
+	margin: none;
+	padding: none;
+	margin-left: 150px;
+	margin-top: 150px;
+	color: #2c2c2c;
+}
+
+#line
+{
+	width: 150px;
+	display: block;
+	height: 25px;
+	background-color: #58c2ff;
+	margin-left: 20px;
+}
+
+#info
+{
+	border-left-width: 12.5px;
+	border-left-style: solid;
+	border-left-color: #58c2ff;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	padding-left: 20px;
+	margin-left: 170px;
+}
+
+#info b
+{
+	background-color: #b6e4ff;
+}
