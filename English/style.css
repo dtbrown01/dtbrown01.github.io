@@ -6,6 +6,13 @@ body
 	margin: 0px;
 }
 
+p
+{
+	padding-top: 10px;
+	font-family: 'Bitter', serif;
+	font-weight: 400;
+}
+
 
 h1
 {
