@@ -1,129 +1,21 @@
 @import url("https://fonts.googleapis.com/css2?family=Catamaran:wght@100;400;900&display=swap");
-:root {
-  --primary: #6C63FF;
-  --secondary: #1d1d28;
-}
-
 body {
-  margin: 1.5em;
-  font-family: 'Catamaran', sans-serif;
-}
-
-a {
-  text-decoration: none;
-  font-size: 1.3rem;
-}
-
-.hero-img {
-  z-index: -1;
-  width: 70%;
-  display: block;
-  margin: auto;
-}
-
-.logo {
-  color: var(--secondary);
-  font-weight: 400;
-  letter-spacing: 0.1rem;
-}
-
-.logo span {
-  font-weight: 900;
-  color: var(--primary);
-}
-
-nav {
-  position: fixed;
-  right: 0;
-  top: 0;
-  height: 100vh;
-  width: 50%;
-  background-color: #6C63FF;
-  z-index: 99;
-  text-transform: uppercase;
-  -webkit-transition: -webkit-transform .5s ease-in;
-  transition: -webkit-transform .5s ease-in;
-  transition: transform .5s ease-in;
-  transition: transform .5s ease-in, -webkit-transform .5s ease-in;
-}
-
-nav ul {
-  list-style: none;
-  padding: 0;
-  margin-top: 8em;
-}
-
-nav ul a {
-  color: white;
-  font-weight: 400;
-  padding: .25em 2em;
-  display: block;
-  font-size: 1.75rem;
-  width: 100%;
-}
-
-nav ul a:hover {
-  background: rgba(255, 255, 255, 0.242);
-}
-
-nav .github {
-  position: absolute;
-  top: 2em;
-  left: 2em;
-  width: 2em;
-  z-index: 101;
-}
-
-nav .close {
-  float: right;
-  width: 2em;
-  margin: 2em;
-}
-
-nav .close path {
-  fill: white;
-}
-
-header {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
-}
-
-header .hamburger {
-  width: 2em;
-  margin-top: -.6em;
-  cursor: pointer;
-}
-
-header .hamburger path {
-  fill: var(--secondary);
+  background-color: #15202b;
+  padding: 1.5em;
+  font-family: "Catamaran", sans-serif;
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 5rem;
   margin-top: 2em;
-  line-height: 3.3rem;
+  line-height: 5.5rem;
   text-align: center;
-  color: var(--primary);
-}
-
-h4 {
-  text-transform: uppercase;
-  margin-top: -2em;
-  text-align: center;
-}
-
-.scroll-indicator {
-  display: block;
-  margin: auto;
-}
-
-section.hero {
-  color: var(--secondary);
-  height: 90vh;
-}
-/*# sourceMappingURL=main.css.map */
+  background-image: linear-gradient(225deg, #00aeff, #00d331);
+  filter: drop-shadow(0 20px 30px rgba(40, 216, 255, 0.2));
+  color: black;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  box-decoration-break: clone;
+  -webkit-background-clip: text;
+  -webkit-box-decoration-break: clone;
+}/*# sourceMappingURL=main.css.map */
