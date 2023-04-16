@@ -1,29 +1,24 @@
 ---
 layout: default
 ---
-
-<div class="main_container">
-    <h1>Hey There!</h1>
-    <p>I'm Darcy, a high-school student located within Australia. I have a keen interest in both urban planning and technology, especially the intersect between the two.</p>
-    <p>Yes... I'm a cat person. Get over it.</p>
-</div>
-
-<div class="secondary_container">
-    <div class="option">
-        <div class="content">
-            <h1>My Posts</h1>
-            <p>Here, I'll post anything that interests me, primarily relating to technology and urban planning, or even better both!</p>
-            <a href="/posts" class="button">View Them</a>
-        </div>
+    <div class="about_me">
+        <div class="title">Hey There!</div>
+        <p>I'm Darcy, a high-school student from Australia. I have a keen interest in both urban planning and technology, especially the intersect between the two.</p>
+        <p>Here, I'll post anything that interests me, primarily relating to technology and urban planning, or even better both! I will also especially focus on local small scale solutions and their widespread impacts and larger scale equivalents</p>
+        <p>Yes... I'm a cat person. Get over it.</p>
     </div>
-    <div class="option">
-        <div class="content">
-            <h1>My Projects</h1>
-            <p>Here you can see any projects I have worked on or am actively working. </br> Don't expect too much here though.</p>
-            <a href="/projects" class="button">View Them</a>
-        </div>
+    <div class="posts">
+            {% for post in site.posts %}
+            <a class="post_container" href="{{ post.url | relative_url }}">
+                <div>
+                    <img class="preview_image" src={{post.primary_image}}>
+                    <div class="title">{{post.category}}</div>
+                    <h2>{{post.title}}</h2>
+                </div>
+            </a>
+            {% endfor %}
     </div>
-</div>
+
 
 <!-- <ul>
     {% for post in site.posts %}
