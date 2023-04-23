@@ -4,7 +4,7 @@ title:  "The Benefits of Bamboo"
 date:   2023-04-20 16:00:00 +1000
 primary_image: "/assets/images/2023-04-13/FinishedProduct.jpeg"
 category: Home Garden
-permalink: /home-garden/balcony-redesign
+permalink: /benefits-of-bamboo
 ---
 
 ![Completed Balcony](/assets/images/2023-04-13/FinishedProduct.jpeg)
