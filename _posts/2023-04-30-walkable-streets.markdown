@@ -8,10 +8,9 @@ permalink: /walkable-streets
 ---
 
 ![Urban Street](https://images.unsplash.com/photo-1581262177000-8139a463e531?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1615&q=80)
-<span class="caption">A colourful urban street in France. [Louis Paulin on Unsplash][unsplash]</span>
+<span data-nosnippet class="caption">A colourful urban street in France. [**Louis Paulin on Unsplash**][unsplash]</span>
 
 ## What do you think of when you think of a street? 
-
 
 Newly planted trees separated by concrete wastelands, with the occasional car parked in front of an oversized house. Or do you think of a road clogged with traffic, four or more lanes separating you from the narrow footpath on the opposite side. 
 
@@ -24,8 +23,6 @@ Walkable cities, with convenient transport options, can positively impact econom
 Walkable cities can improve public health by promoting physical activity, which can in turn reduce the prevalence of obesity and chronic diseases, whilst also improving mental well-being. Walkable areas encourage an increase in walking and,if properly designed, cycling, which both function as physical activity improving physical health, whilst also releasing endorphins, improving mental health. Cycling and walking are also significantly less polluting than other forms of transport, especially cars, increasing air quality and therefore significantly decreasing the prevalence of respiratory illnesses, resulting from pollution. A decrease in car traffic through cycling, walking and public transport, can also decrease the risk of fatalities and injury from collisions with cars, as well as decreasing noise present within a city. This decrease in noise can have a profound impact on long-term health as well as stress levels. 
 
 The most important part of transforming streets to become more walkable is lowering speed limits and widening pedestrian paths, such as footpaths. Pedestrian focused streets should also give priority to pedestrian, allowing pedestrians to cross at more locations and overall improving the connectivity between each side of the street.
-
-[https://www.arup.com/-/media/arup/files/publications/c/cities-alive_towards-a-walking-world_lowres.pdf](https://www.arup.com/-/media/arup/files/publications/c/cities-alive_towards-a-walking-world_lowres.pdf)
 
 ## Sources
 

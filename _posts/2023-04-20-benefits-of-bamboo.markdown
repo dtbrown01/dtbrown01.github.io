@@ -8,7 +8,7 @@ permalink: /benefits-of-bamboo
 ---
 
 ![Completed Balcony](/assets/images/2023-04-13/FinishedProduct.jpeg)
-<span class="caption">Photo of my balcony with a newly planted bamboo screen in two pots.</span>
+<span data-nosnippet class="caption">Photo of my balcony with a newly planted bamboo screen in two pots.</span>
 
 Privacy is an important aspect of our lives especially in urban and suburban settings. Bamboo can be seen as an effective, and good looking, evergreen which can act as a screen along boundaries or even on balconies. Bamboo, specifically clumping varieties, is an effective living screen because it grows quickly, unlike most hedges, is evergreen and is dense, it can also be managed relatively easy making it low maintenance when compared to some hedging varieties. 
 
