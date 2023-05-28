@@ -2,8 +2,8 @@
 layout: post
 title:  "Automating our Home"
 date:   2023-05-14 16:00:00 +1000
-primary_image: "https://images.unsplash.com/photo-1586920740280-e7da670f7cb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3264&q=80"
-category: Technology
+primary_image: "https://images.unsplash.com/photo-1507484467459-0c01be16726e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80"
+category: Home Garden
 permalink: /home-automation
 ---
 
