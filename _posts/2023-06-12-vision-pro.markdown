@@ -9,7 +9,7 @@ permalink: /impact-of-vision-pro
 
 Apple’s announcement of the Vision Pro surprised no-one, given the wild speculation surrounding the announcement, as well as the advancements in the real of virtual reality, the *“Metaverse”. This technology has been overhyped, and typically under polished. What does Apple getting involved mean?*
 
-![Vision Pro](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnet.com%2Ftech%2Fcomputing%2Fapple-vision-pro-hands-on-far-better-than-i-was-ready-for%2F&psig=AOvVaw3XTSl6bgJb0r68-rtr2azD&ust=1686729248454000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLj9jqDiv_8CFQAAAAAdAAAAABAD)
+![Vision Pro](https://www.cnet.com/a/img/resize/e906844427694241ac506423f976257869482f13/hub/2023/06/05/173849ce-5af2-47a0-bf88-2660a919a568/wwdc-2023-060523-apple-pro-vision-hands-on-7.jpg?auto=webp&fit=crop&height=675&width=1200)
 <span data-nosnippet class="caption">Apple's Vision Pro - From CNET</span>
 
 Well, really not much. Apple announcing their own Augmented Reality Headset may revive hype surrounding this type of technology, proper use-cases and price constraints haven’t vanished. The price point is especially constraining, with the Vision Pro being priced at $5000 (AUD). 
