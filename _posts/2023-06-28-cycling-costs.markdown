@@ -2,7 +2,7 @@
 layout: post
 title:  "The Unknown Consequences of Cycling Infrastructure"
 date:   2023-06-28 11:00:00 +1000
-primary_image: "https://images.unsplash.com/photo-1626379961798-54f819ee896a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+primary_image: "https://images.unsplash.com/photo-1606636667096-3db2169f3207?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2942&q=80"
 category: Urban Planning
 permalink: /impacts-of-cycling-infrastructure
 ---
