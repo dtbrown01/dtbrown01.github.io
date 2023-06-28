@@ -7,7 +7,7 @@ category: Technology
 permalink: /impact-of-vision-pro
 ---
 
-Apple’s announcement of the Vision Pro surprised no-one, given the wild speculation surrounding the announcement, as well as the advancements in the real of virtual reality, the *“Metaverse”. This technology has been overhyped, and typically under polished. What does Apple getting involved mean?*
+Apple’s announcement of the Vision Pro surprised no-one, given the wild speculation surrounding the announcement, as well as the advancements in the real of virtual reality, the *“Metaverse”*. This technology has been overhyped, and typically under polished. What does Apple getting involved mean?
 
 ![Vision Pro](https://www.cnet.com/a/img/resize/e906844427694241ac506423f976257869482f13/hub/2023/06/05/173849ce-5af2-47a0-bf88-2660a919a568/wwdc-2023-060523-apple-pro-vision-hands-on-7.jpg?auto=webp&fit=crop&height=675&width=1200)
 <span data-nosnippet class="caption">Apple's Vision Pro - From CNET</span>
