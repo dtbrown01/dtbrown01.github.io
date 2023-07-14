@@ -205,6 +205,10 @@ a {
             border-radius: 0.8em;
         }
 
+        .full-image {
+            max-height: 100vh;
+        }
+
         .caption {
             display: block;
             margin-top: 0.5em;

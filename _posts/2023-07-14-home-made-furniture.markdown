@@ -9,7 +9,7 @@ permalink: /benefits-of-home-made-furniture
 
 When it comes to furnishing our homes, we often turn to popular suppliers like Ikea for their affordable and convenient options. However, there's an alternative that brings a unique touch to your living space while offering numerous benefits: home-made furniture. Creating your own furniture allows you to unleash your creativity, achieve a personalised look, and even contribute to a more sustainable lifestyle. Despite these benefits is it worth the effort?
 
-![Home-made cabinet, explanation of layout bellow.](/assets/images/2023-07-14/main-image.jpg)
+<image src="/assets/images/2023-07-14/main-image.jpg" alt="[Home-made cabinet, explanation of layout bellow." class="full-image"/>
 <span data-nosnippet class="caption">Our home-made cabinet.</span>
 
 We created our own small cabinet, purely because there were no affordable solutions that had our desired dimensions, especially depth, as well as ensured practicality. One of the most exciting aspects of home made furniture is the opportunity to unleash your creativity, however I personally lack much creativity so ours is quite boring. 
