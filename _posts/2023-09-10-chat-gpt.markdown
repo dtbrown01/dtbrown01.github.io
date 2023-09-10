@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "ChatGPT is Horrible, Actually."
+date:   2023-09-10 16:00:00 +1000
+primary_image: "https://images.pexels.com/photos/15863044/pexels-photo-15863044/free-photo-of-monitor-screen-with-openai-logo-on-black-background.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+category: Technology
+permalink: /generative-ai-failures
+description: "Generative AI has been praised and touted as the next big thing, some even saying it is more significant than fire. But is it really that good or even that significant?
+"
+---
+
+ChatGPT, and generative AI as a whole, has taken the world by storm in the past year. It has been praised and touted as the next big thing, some even saying it is more significant than fire. Sure it is interesting and can be somewhat helpful, and AI art can result in some pretty impressive (and not so impressive) results. But is it really that good or even that significant?
+
+![Abstract Representation of Code](https://images.pexels.com/photos/97077/pexels-photo-97077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+
+Generative AI, doesn't just come up with stuff out of nowhere (even if it sometimes seems like it does), it is actually trained to recognise and apply patterns in training data. The only reason that these *"AI"*, or more accurately Machine Learning Models, are so proficient is due to the large amounts of training data that they have collected. There are many ethical and copyright issues that arise from these training sets, and the lack of permission that AI companies have to use authors' and artists' work, however the variability in the training set in itself is concerning.
+
+This is evident in ChatGPT's early responses, when it would spew out inaccurate information, or even dangerous conspiracy theories, yet act that it was completely correct. Of cause because ChatGPT is just an algorithm it has no idea what information in the training set is accurate or not, unless sources are manually flagged or removed by humans (or for some reason other algorithms now???). This means that proof reading, and fact checking is still required when using ChatGPT, arguably the more boring part of writing anyway. The lack of data past 2021 is also becoming more of a problem for people using ChatGPT as a researching tool, although given the previously mentioned factual errors this is already flawed.
+
+As mentioned earlier the ethical implications of these training models is questionable, at best, with large amounts of data being included without any consent by the creator of that data. This is especially evident in the Generative Art space, where thousands of artists are participating in multiple class-action law suits against AI companies, on the grounds of copyright and enabling plagiarism. Whilst these are concerning, they are nothing in comparison to the allegations of human worker conditions for moderators. 
+
+That's right, even AI needs to be moderated because it is based of our flawed human interactions. OpenAI (creators of ChatGPT and Dall-E), and other AI companies, have outsourced moderation of responses to severely underpaid workers within Africa primarily. They were tasked with manually filtering any AI responses either reported by users, or automatically flagged by additional safe guards, that may condone illegal activity, or may actively be harmful. This of cause is necessary for safe operation, and may just be a major flaw of the large amounts of unaudited data included in the models,  but it has major implications on the mental health of these workers, who don't have and aren't provided with the resources to properly address any mental health problems that arise.
+
+Even if ChatGPT and AI in general, was ethical and factually correct, it would be an amazing tool for brainstorming and the early stage of ideas. However, its distinct style, and our own personal styles will never match and in the area of art and writing, human qualities are above all else, and can't yet be properly replicated by a lifeless algorithm (and please don't make these things any closer to sentient).
+
+However, despite how impressive ChatGPT is, it isn't a major breakthrough in technology, it is instead the result of greater capital and greater data being fed into training algorithms, which are in themselves impressive. But, thankfully, we are not much closer to any forms of proper AI (as in sentient AI) any time soon.
