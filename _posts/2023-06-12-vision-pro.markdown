@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "The Impact of the Apple Vision Pro"
+title:  "The Potential Impact of Apple's Vision Pro"
 date:   2023-06-12 16:00:00 +1000
 primary_image: "https://images.unsplash.com/photo-1626379961798-54f819ee896a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
-category: Technology
+categories: ["Technology"]
 permalink: /impact-of-vision-pro
+description: "Apple’s announcement of the Vision Pro surprised no-one. But what does this announcement mean for the overhyped metaverse and for society?"
 ---
 
 Apple’s announcement of the Vision Pro surprised no-one, given the wild speculation surrounding the announcement, as well as the advancements in the real of virtual reality, the *“Metaverse”*. This technology has been overhyped, and typically under polished. What does Apple getting involved mean?

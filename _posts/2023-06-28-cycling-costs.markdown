@@ -3,8 +3,9 @@ layout: post
 title:  "The Unknown Consequences of Cycling Infrastructure"
 date:   2023-06-28 11:00:00 +1000
 primary_image: "https://images.unsplash.com/photo-1606636667096-3db2169f3207?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2942&q=80"
-category: Urban Planning
+categories: ["Urban Planning"]
 permalink: /impacts-of-cycling-infrastructure
+description: "Cycling infrastructure has widely known, and far-reaching benefits, but it also has a few less known and even negative impacts, primarily when poorly implemented."
 ---
 
 Cycling infrastructure has widely known, and far-reaching benefits, but it also has a few less known and even negative impacts. The development of dedicated cycling infrastructure brings significant benefits to cities, their residents, and their economies.  One of the clearest benefits of cycling is the improvement in public health. By encouraging active transportation and supplying safe cycling routes, cities promote physical activity and combat sedentary lifestyles. This leads to enhanced cardiovascular health, reduced risks of chronic diseases, and overall well-being. Additionally, cycling as a mode of transportation offers mental health benefits, such as stress reduction and improved mental clarity. 

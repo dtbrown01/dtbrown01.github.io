@@ -1,28 +1,51 @@
 ---
-layout: default
 ---
-    <div class="about_me">
-        <div class="title">Hey There!</div>
-        <p>I'm Darcy, a high-school student from Australia. I have a keen interest in both urban planning and technology, especially the intersect between the two.</p>
-        <p>Here, I'll post anything that interests me, primarily relating to technology and urban planning, or even better both! I will also especially focus on local small scale solutions and their widespread impacts and larger scale equivalents</p>
-        <p>Yes... I'm a cat person. Get over it.</p>
-    </div>
-    <div class="posts">
-            {% for post in site.posts %}
-            <a class="post_container" href="{{ post.url | relative_url }}">
-                <div>
-                    <img class="preview_image" src={{post.primary_image}}>
-                    <div class="title">{{post.category}}</div>
-                    <h2>{{post.title}}</h2>
-                </div>
-            </a>
-            {% endfor %}
-    </div>
 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="/assets/css/styles.css" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <meta charset="UTF-8" />
+    <title>
+      {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
+    </title>
+  </head>
+  <body>
+    <div style="margin-top: 5rem" class="main_content">
+      <div class="about_me">
+        <h2>Hey There!</h2>
+        <p>
+          I'm Darcy, a high-school student from Australia. I have a keen
+          interest in both urban planning and technology, especially the
+          intersect between the two.
+        </p>
+        <p>
+          Here, I'll post anything that interests me, primarily relating to
+          technology and urban planning, or even better both!
+        </p>
+      </div>
 
-<!-- <ul>
-    {% for post in site.posts %}
-        <li><a href="{{ post.url | relative_url }}">{{post.title}}</a></li>
-    {% endfor %}
-</ul>
-<h3><a href="/about">About</a></h3> -->
+      <h1 class="title">My Posts</h1>
+
+      <div class="posts_container">
+        {% for post in site.posts %}
+        <a class="post_container" href="{{ post.url | relative_url }}">
+          <div>
+            <img class="preview_image" src="{{post.primary_image}}" />
+            <span class="tags">
+              {% for category in post.categories %}
+              <span>{{category}}</span>
+              {% endfor %}
+            </span>
+
+            <h2>{{post.title}}</h2>
+            <p class="description">{{post.description}}</p>
+          </div>
+        </a>
+        {% endfor %}
+      </div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>

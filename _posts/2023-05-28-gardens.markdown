@@ -3,8 +3,9 @@ layout: post
 title:  "The Benefits of Gardens"
 date:   2023-05-28 16:00:00 +1000
 primary_image: "https://images.unsplash.com/photo-1507484467459-0c01be16726e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80"
-category: Home Garden
+categories: ["Urban Planning", "Home Garden"]
 permalink: /social-gardens
+description: "In today's fast-paced and urbanised world, the concept of gardening has evolved and it holds many benefits."
 ---
 
 In today's fast-paced and urbanised world, the concept of gardening has evolved beyond individual backyards. While cultivating a garden at home offers numerous advantages, as I have discovered over the past few years. The idea of community gardens has especially gained momentum, promoting a sense of togetherness and benefiting society as a whole. From promoting sustainable living to encouraging social interaction and providing access to fresh produce, home and community gardens have become catalysts for positive change. In this blog post, we will explore the remarkable benefits of nurturing gardens, both at home and within our communities.

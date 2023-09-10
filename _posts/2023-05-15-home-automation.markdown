@@ -3,8 +3,9 @@ layout: post
 title:  "Automating our Home"
 date:   2023-05-14 16:00:00 +1000
 primary_image: "https://images.unsplash.com/photo-1586920740280-e7da670f7cb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3264&q=80"
-category: Technology
+categories: ["Homes", "Technology"]
 permalink: /home-automation
+description: "It is a work of science fiction, smart homes, are coming true. Smart homes, whilst generally a novelty are growing in popularity."
 ---
 
 It is a work of science fiction, a house controlled purely by voice controls, futuristic dashboards and automation, however it is coming true. Smart homes, whilst generally a novelty are growing in popularity. 

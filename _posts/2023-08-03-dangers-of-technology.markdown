@@ -3,11 +3,12 @@ layout: post
 title:  "How Algorithms Control our Thoughts"
 date:   2023-08-03 16:00:00 +1000
 primary_image: "https://images.unsplash.com/photo-1554177255-61502b352de3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80"
-category: Technology
+categories: ["Technology"]
 permalink: /technology-and-our-thoughts
+description: "Algorithms are everywhere, from selecting what we will listen to, watch, and scroll through, but the truth is they are almost never in our best interests."
 ---
 
-This is a different topic to normal, but one that I think is important. Technology has increasingly become a part of our lives (I say this but don't remember a time personally where it wasn't), with algorithms controlling more and more of the content that we view and experience. 
+Technology has increasingly become a part of our lives (I say this but don't remember a time personally where it wasn't), with algorithms controlling more and more of the content that we view and experience. 
 
 ![A Neon Sign of 0 Likes](https://images.unsplash.com/photo-1554177255-61502b352de3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80)
 

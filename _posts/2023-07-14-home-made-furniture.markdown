@@ -3,8 +3,9 @@ layout: post
 title:  "The Benefits of Home Made Furniture"
 date:   2023-07-14 16:00:00 +1000
 primary_image: "https://images.unsplash.com/photo-1611021061218-761c355ed331?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80"
-category: Home & Technology
+categories: ["Homes", "Technology"]
 permalink: /benefits-of-home-made-furniture
+description: "When it comes to furnishing our homes, we often turn to sterile affordable and convenient options. But an alternative allows for a unique touch."
 ---
 
 When it comes to furnishing our homes, we often turn to popular suppliers like Ikea for their affordable and convenient options. However, there's an alternative that brings a unique touch to your living space while offering numerous benefits: home-made furniture. Creating your own furniture allows you to unleash your creativity, achieve a personalised look, and even contribute to a more sustainable lifestyle. Despite these benefits is it worth the effort?

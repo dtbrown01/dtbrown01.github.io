@@ -3,8 +3,9 @@ layout: post
 title:  "Redefining Our Streets"
 date:   2023-04-30 16:00:00 +1000
 primary_image: "https://images.unsplash.com/photo-1581262177000-8139a463e531?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1615&q=80"
-category: Urban Planning
+categories: ["Urban Planning"]
 permalink: /walkable-streets
+description: "Streets should be walkable with accessible and convenient alternatives to owning a car, not a death trap."
 ---
 
 ![Urban Street](https://images.unsplash.com/photo-1581262177000-8139a463e531?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1615&q=80)

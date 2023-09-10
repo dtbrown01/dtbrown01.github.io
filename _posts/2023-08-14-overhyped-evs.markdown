@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "EVs - Overhyped?"
+title:  "Are Electric Cars Really Revolutionary?"
 date:   2023-08-14 16:00:00 +1000
 primary_image: "https://images.unsplash.com/photo-1594446545939-a34b083e9a7c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2942&q=80"
-category: Urban Planning
+categories: ["Urban Planning", "Technology"]
 permalink: /overhyped-evs
+description: "Electric Vehicles have taken the automotive world by storm, promising a cleaner, greener future on our roads. Is the hype as justified as we think?"
 ---
 
 Electric Vehicles have taken the automotive world by storm, promising a cleaner, greener future on our roads. While the excitement surrounding EVs is explainable, is it really as justified as we think? Lets delve into the hype of electric vehicles, understanding their trade-offs, and what we should be focusing on instead.
