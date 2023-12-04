@@ -6,8 +6,9 @@ $accent-colour: #5d45da;
 $primary-background: #f2f6ff;
 $secondary-background: #dde4f6;
 
+
 $medium: 70em;
-$small: 40em;
+$sm: 500px;
 
 
 * {
@@ -84,7 +85,7 @@ body {
 .posts_container {
     display: grid;
     align-items: center;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(18em, 1fr));
     column-gap: 2rem;
     row-gap: 2rem;
     width: 100%;
