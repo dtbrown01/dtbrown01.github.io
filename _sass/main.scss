@@ -92,6 +92,7 @@ body {
     margin-top: 2rem;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 1em;
 }
 
 .post_container {
@@ -143,6 +144,21 @@ body {
         object-fit: cover;
         margin-left: auto;
         margin-right: auto;
+    }
+}
+
+.pagination {
+    margin-left: auto;
+    margin-right: auto;
+    width: 30em;
+    display: flex;
+
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+
+    * {
+       padding: 0.2em;
     }
 }
 
