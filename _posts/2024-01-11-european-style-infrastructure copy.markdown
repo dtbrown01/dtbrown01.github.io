@@ -3,7 +3,7 @@ layout: post
 title:  “European Style” – Is That Really a Good Description?
 date:   2024-01-11 13:00:00 +1000
 primary_image: "https://hdp-au-prod-app-act-yoursay-files.s3.ap-southeast-2.amazonaws.com/6216/8326/5351/7_ACT_Linedrawings_CollectorToCollector_Roundabout_Gold_v2.jpg"
-category: ['Urban Planning']
+category: ['Urban Planning', 'Transport']
 permalink: /european-style-infrastructure
 description: "We often see it, new people-friendly infrastructure called European, not always in a positive way.
 "

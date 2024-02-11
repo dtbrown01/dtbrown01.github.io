@@ -3,7 +3,7 @@ layout: post
 title:  "The Best Form of Mobility"
 date:   2023-12-03 16:00:00 +1000
 primary_image: "/assets/images/2023-12-03/CoverPhoto.jpeg"
-category: ['Urban Planning']
+category: ['Urban Planning', 'Transport']
 permalink: /active-travel
 description: "In the realm of modern transportation, the concept of active travel has emerged as a compelling force, reshaping how we move and view mobility. 
 "

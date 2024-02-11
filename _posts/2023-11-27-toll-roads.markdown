@@ -3,7 +3,7 @@ layout: post
 title:  "Navigating Toll Roads"
 date:   2023-11-27 16:00:00 +1000
 primary_image: "https://images.unsplash.com/photo-1445264918150-66a2371142a2?q=80&w=3164&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-category: ['Urban Planning']
+category: ['Transport']
 permalink: /toll-roads
 description: "Cities renowned for their vibrant culture and as a tourist destination, are often stuck in traffic - and their residents need to pay for the privilege.
 "

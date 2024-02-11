@@ -3,7 +3,7 @@ layout: post
 title:  "Light Rail or Buses?"
 date:   2023-10-29 16:00:00 +1000
 primary_image: "https://aecom.com/sg/wp-content/uploads/2021/10/Canberra-Light-Rail_Stage-1-_21_-1-scaled-1592x1062.jpg"
-category: ['Urban Planning']
+category: ['Urban Planning', 'Transport']
 permalink: /light-rail-or-buses
 description: "One of the largest and most politicised debates of the 21st century in urban planning and public transportation, alongside cars, planes or heavy rail.
 "

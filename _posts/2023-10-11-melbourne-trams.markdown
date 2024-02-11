@@ -3,7 +3,7 @@ layout: post
 title:  "The Largest Tram Network?"
 date:   2023-10-11 16:00:00 +1000
 primary_image: "https://images.unsplash.com/photo-1585217514204-d025f2f1b116?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWVsYm91cm5lJTIwdHJhbXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=900&q=60"
-category: ['Urban Planning']
+category: ['Urban Planning', 'Transport']
 permalink: /melbourne-trams
 description: "One of Melbourne's most iconic features, is its extensive tram network, are more than just a pleasant mode of public transport, but are also a key part of the city’s identity.
 "
