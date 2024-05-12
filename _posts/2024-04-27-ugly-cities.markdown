@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Corridor Fixation and Lost Opportunities
+title: Modern Buildings are (Mostly) Ugly
 date:   2024-04-27 12:00:00 +1000
 primary_image: "https://images.unsplash.com/photo-1491357492920-d2979986a84e?q=80&w=3166&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 
